@@ -1,2 +1,2 @@
 # codewarsPython
-my python code for codewars
+My python code for codewars 🐍
